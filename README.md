@@ -65,8 +65,8 @@ A full-stack AI-powered web application that predicts customer churn probability
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/churn-prediction-dashboard.git
-cd churn-prediction-dashboard
+git clone https://github.com/devyash07/CHURN-PREDICTION.git
+cd CHURN-PREDICTION
 
 # Backend setup
 python -m venv venv
@@ -411,7 +411,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **devyash07** - *Initial work* - [devyash07](https://github.com/devyash07)
 
 ---
 
@@ -428,8 +428,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/churn-prediction-dashboard/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/churn-prediction-dashboard/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/devyash07/CHURN-PREDICTION/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/devyash07/CHURN-PREDICTION/discussions)
 
 ---
 
@@ -448,9 +448,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/churn-prediction-dashboard?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/churn-prediction-dashboard?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/churn-prediction-dashboard?style=social)
+![GitHub stars](https://img.shields.io/github/stars/devyash07/CHURN-PREDICTION?style=social)
+![GitHub forks](https://img.shields.io/github/forks/devyash07/CHURN-PREDICTION?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/devyash07/CHURN-PREDICTION?style=social)
 
 ---
 
@@ -458,6 +458,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [devyash07](https://github.com/devyash07)
 
 </div>
