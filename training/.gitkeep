@@ -1,0 +1,4 @@
+# This file ensures the training directory is tracked by git
+# Place your training files here:
+# - E Commerce Dataset.xlsx
+# - churn_pred.ipynb
